@@ -1,7 +1,7 @@
 echo off
 
 
-echo Verefique que seu computador tem python3 caso não tenha a execução não funcionara
+echo Verifique que seu computador tem python3 caso não tenha a execução não funcionara
 
 
 timeout /t 5
