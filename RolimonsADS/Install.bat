@@ -1,10 +1,10 @@
 echo off
 
 
-echo Check if you have python installed on your computer, if the program is met with problems, look at read_me
+echo Verefique que seu computador tem python3 caso não tenha a execução não funcionara
 
 
-timeout /t 10
+timeout /t 5
 
 echo Install for requests
 pip install requests
@@ -29,8 +29,8 @@ pip install time
 timeout /t 3
 cls
 
-echo INSTALLATION DONE SUCCESSFULLY
-echo Created by yTz#1000
+echo Instalado com sucesso
+echo criado por yTz 1000
 timeout /t 5
 
 exit
