@@ -1,5 +1,6 @@
 # Instalação
 Sistema de ads automatico usando a api do rolimons
+Obrigatorio abaixar [python3](https://www.python.org/downloads/)
 
 **Rolidata / RoliVerification**
 
