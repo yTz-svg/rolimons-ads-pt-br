@@ -41,7 +41,7 @@ Para deixa o projeto 24/7 e nessesario hospeda na heroku vejo como [saiba mais](
 Apenas um projeto para ajuda traders brasileiros que não contem o mesmo recursos que um trader/estrangeiro teria, esse projeto tem o total 
 apoio do rolimons so não abuse do ![image](https://user-images.githubusercontent.com/114835037/205991041-7c103254-f5ae-4fd5-8722-4798b4850755.png) pois
 podera causar punições, duvidas me chame no [discord](https://discord.com/users/776854360280924210) que poderei ajudar resolver qualquer erro causado 
-para editar o codigo recomendo usar [notepad++](https://notepad-plus-plus.org/downloads/) caso não tenha uma [IDE](https://pt.wikipedia.org/wiki/Ambiente_de_desenvolvimento_integrado#:~:text=IDE%2C%20do%20ingl%C3%AAs%20Integrated%20Development,objetivo%20de%20agilizar%20este%20processo.) instalada no seu computaodr
+para editar o codigo recomendo usar [notepad++](https://notepad-plus-plus.org/downloads/) caso não tenha uma [IDE](https://pt.wikipedia.org/wiki/Ambiente_de_desenvolvimento_integrado#:~:text=IDE%2C%20do%20ingl%C3%AAs%20Integrated%20Development,objetivo%20de%20agilizar%20este%20processo.) instalada no seu computador
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
