@@ -40,11 +40,11 @@ while True:
 
   fakeContent = '' if success else '@here'
 
-  myWebhook = DiscordWebhook(url = '', content = fakeContent)
+  myWebhook = DiscordWebhook(url = '', content = fakeContent) #Coloque seu webhook em url ''
   myEmbed = DiscordEmbed(title = messageLiteral, description = builtDescription, color = myColor)
   myEmbed.set_timestamp()
 
-  myEmbed.set_image(url='000') # Coloque seu webhook
+  myEmbed.set_image(url='000') # Coloque a imagem (opcional)
   myWebhook.add_embed(myEmbed)
   webhookResponse = myWebhook.execute()
   time.sleep(1830)
