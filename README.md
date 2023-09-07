@@ -1,6 +1,7 @@
 # Instalação
 Sistema Automático de Anúncios com a API do Rolimons
 
+
 o progama não funciona sem abaixar [python3](https://www.python.org/downloads/)
 
 **Rolidata / RoliVerification**
